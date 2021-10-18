@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yousif Beeai
 - 👀 I’m interested in back end coding
-- 🌱 I’m currently learning C# and JavaScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
